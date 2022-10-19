@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MomentoBank"
+			"path" : "MomentoBank.exe"
+		},
+		{
+			"path" : "MomentoBank.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -35,7 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk"
+					"fragment" : "-g"
 				},
 				{
 					"fragment" : "-std=gnu++14"
@@ -72,12 +75,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "MomentoBank",
-	"nameOnDisk" : "MomentoBank",
+	"nameOnDisk" : "MomentoBank.exe",
 	"paths" : 
 	{
 		"build" : ".",
