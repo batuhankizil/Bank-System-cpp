@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/create.cpp" "CMakeFiles/MomentoBank.dir/create.cpp.obj" "gcc" "CMakeFiles/MomentoBank.dir/create.cpp.obj.d"
-  "C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/exit.cpp" "CMakeFiles/MomentoBank.dir/exit.cpp.obj" "gcc" "CMakeFiles/MomentoBank.dir/exit.cpp.obj.d"
-  "C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/login.cpp" "CMakeFiles/MomentoBank.dir/login.cpp.obj" "gcc" "CMakeFiles/MomentoBank.dir/login.cpp.obj.d"
-  "C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/main.cpp" "CMakeFiles/MomentoBank.dir/main.cpp.obj" "gcc" "CMakeFiles/MomentoBank.dir/main.cpp.obj.d"
-  "C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/menu.cpp" "CMakeFiles/MomentoBank.dir/menu.cpp.obj" "gcc" "CMakeFiles/MomentoBank.dir/menu.cpp.obj.d"
+  "/Users/batu/Documents/MomentoBankSystem/MomentoBank/create.cpp" "CMakeFiles/MomentoBank.dir/create.cpp.o" "gcc" "CMakeFiles/MomentoBank.dir/create.cpp.o.d"
+  "/Users/batu/Documents/MomentoBankSystem/MomentoBank/exit.cpp" "CMakeFiles/MomentoBank.dir/exit.cpp.o" "gcc" "CMakeFiles/MomentoBank.dir/exit.cpp.o.d"
+  "/Users/batu/Documents/MomentoBankSystem/MomentoBank/login.cpp" "CMakeFiles/MomentoBank.dir/login.cpp.o" "gcc" "CMakeFiles/MomentoBank.dir/login.cpp.o.d"
+  "/Users/batu/Documents/MomentoBankSystem/MomentoBank/main.cpp" "CMakeFiles/MomentoBank.dir/main.cpp.o" "gcc" "CMakeFiles/MomentoBank.dir/main.cpp.o.d"
+  "/Users/batu/Documents/MomentoBankSystem/MomentoBank/menu.cpp" "CMakeFiles/MomentoBank.dir/menu.cpp.o" "gcc" "CMakeFiles/MomentoBank.dir/menu.cpp.o.d"
   )
 
 # Targets to which this target links.
