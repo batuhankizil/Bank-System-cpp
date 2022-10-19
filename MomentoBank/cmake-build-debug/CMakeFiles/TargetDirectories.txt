@@ -1,3 +1,3 @@
-/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/MomentoBank.dir
-/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/MomentoBank.dir
+C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Batu/Documents/GitHub/MomentoBankSystem/MomentoBank/cmake-build-debug/CMakeFiles/rebuild_cache.dir

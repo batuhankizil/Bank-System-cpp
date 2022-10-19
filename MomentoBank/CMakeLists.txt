@@ -3,5 +3,7 @@ project(MomentoBank)
 
 set(CMAKE_CXX_STANDARD 14)
 
+include_directories(MomentoBank)
+
 add_executable(MomentoBank main.cpp menu.cpp menu.h login.cpp create.cpp exit.cpp)
 
