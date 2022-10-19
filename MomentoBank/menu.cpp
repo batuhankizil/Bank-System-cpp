@@ -7,7 +7,7 @@
 void bank::menu() {
     int choice;
     cout<<"------------ Momento Bank ------------ \n\n 1 - Giriş Yapınız \n 2 - Hesap Oluştur \n 3 - Admin Giriş \n 4 - Çıkış \n\n ------------------------------------- \n\n";
-    cout<<"Giriş Yapınız : ";
+    cout<<"Giriş YapınızzzZ:: : ";
     cin>>choice;
 
     if(choice == 1){
