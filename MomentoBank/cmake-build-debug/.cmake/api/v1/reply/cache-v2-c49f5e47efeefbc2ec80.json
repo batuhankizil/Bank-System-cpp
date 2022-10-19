@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/batu/CLionProjects/MomentoBank/cmake-build-debug"
+			"value" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/batu/CLionProjects/MomentoBank"
+			"value" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/batu/CLionProjects/MomentoBank/cmake-build-debug"
+			"value" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug"
 		},
 		{
 			"name" : "MomentoBank_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/batu/CLionProjects/MomentoBank"
+			"value" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank"
 		}
 	],
 	"kind" : "cache",

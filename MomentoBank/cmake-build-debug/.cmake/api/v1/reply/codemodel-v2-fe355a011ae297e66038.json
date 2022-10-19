@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/batu/CLionProjects/MomentoBank/cmake-build-debug",
-		"source" : "/Users/batu/CLionProjects/MomentoBank"
+		"build" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank/cmake-build-debug",
+		"source" : "/Users/batu/Documents/MomentoBankSystem/MomentoBank"
 	},
 	"version" : 
 	{
